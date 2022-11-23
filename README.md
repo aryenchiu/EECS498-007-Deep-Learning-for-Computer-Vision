@@ -12,4 +12,4 @@
 * Its course arrangement is similar to famous CS231n in Stanford, but this area develops super fast, and this course has newer lecture videos published in 2019.
 
 ### [My Notes](https://hackmd.io/uPkncntWREKvijdfrOMqeg)
-* The notes are written by me, and most of content comes from lecture slides, important concepts that lecturer mentioned in the video and some of my understanding.
+* most of content comes from lecture slides, important concepts that lecturer mentioned in the video and some of my understanding.
